@@ -28,6 +28,8 @@ public class AppTest
         return new TestSuite( AppTest.class );
     }
 
+
+   // selenium automation
     /**
      * Rigourous Test :-)
      */
@@ -36,3 +38,5 @@ public class AppTest
         assertTrue( true );
     }
 }
+
+
